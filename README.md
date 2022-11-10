@@ -4,7 +4,7 @@
 This is a test project that consumes a third party api through NestJS and renders the data with React
 ## Deployment
 
-To deploy this project first run the nestJS backeedn with the following routes and commands
+To deploy this project first run the nestJS backend with the following routes and commands
 
 ```bash
   cd apidemo
@@ -12,7 +12,7 @@ To deploy this project first run the nestJS backeedn with the following routes a
   npm run start
 
 ```
-After that open another terminal and run these commands to deploy the fron-end
+After that open another terminal in the main directory and run these commands to deploy the front-end
 ```bash
   npm run start
 
